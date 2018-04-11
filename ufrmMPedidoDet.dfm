@@ -2,7 +2,7 @@ inherited frmMPedidoDet: TfrmMPedidoDet
   Left = 362
   Top = 234
   Width = 853
-  Caption = 'frmMPedidoDet'
+  Caption = 'Venda'
   OnCreate = FormCreate
   OnShow = FormShow
   PixelsPerInch = 96
