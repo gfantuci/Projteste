@@ -1,7 +1,7 @@
 inherited frmMClienteGrid: TfrmMClienteGrid
   Left = 314
   Top = 128
-  Caption = 'frmMClienteGrid'
+  Caption = 'Cadastro de Clientes'
   Font.Name = 'frmMClienteGrid'
   OnCreate = FormCreate
   PixelsPerInch = 96
