@@ -3,7 +3,7 @@ object Form1: TForm1
   Top = 127
   Width = 924
   Height = 480
-  Caption = 'Projeto Teste'
+  Caption = 'Projeto Teste - Softgran'
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
