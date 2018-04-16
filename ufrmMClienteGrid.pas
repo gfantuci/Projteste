@@ -46,6 +46,7 @@ begin
   begin
     TipoForm := 1;
     ShowModal;
+	//Teste 3
   end;
 end;
 
