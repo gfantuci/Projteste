@@ -45,6 +45,7 @@ procedure TForm1.FormCreate(Sender: TObject);
 begin
   with TfrmdmdPrimcipal.Create(Self) do
    ShowModal;
+  //Teste
 end;
 
 procedure TForm1.Cliente1Click(Sender: TObject);
